@@ -1,0 +1,44 @@
+.text-chocolate {
+    color: chocolate ;
+}
+
+.btn-chocolate {
+    background-color: chocolate;
+}
+
+.btn-saddlebrown {
+    background-color: saddlebrown;
+}
+
+.btn-peru {
+    background-color: peru;
+}
+
+.btn-sandybrown {
+    background-color: sandybrown;
+}
+
+.d-flex input {
+    margin: .9em 0em;
+}
+
+.d-flex button {
+    margin: 1.5em .6em;
+    padding: .3em 3.5em;
+}
+
+.my-row{
+    margin-top: 0.9em;
+}
+
+.container table {
+    margin : 1em 10em;
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
